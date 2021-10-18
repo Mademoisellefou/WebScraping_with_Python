@@ -12,6 +12,10 @@ Temario
 
 > https://programmerclick.com/article/6084318753/
 
+- Topicos
+
+> https://medium.com/analytics-vidhya/what-you-need-to-know-about-web-scraping-fa626e447343
+
 ---
 author: Melany Estevez Camata
 ---
